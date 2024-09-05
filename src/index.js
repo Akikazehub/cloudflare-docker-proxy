@@ -14,7 +14,7 @@ const routes = {
   "k8s.docker.wkto.cloudns.org": "https://registry.k8s.io",
   "ghcr.docker.wkto.cloudns.org": "https://ghcr.io",
   "cloudsmith.docker.wkto.cloudns.org": "https://docker.cloudsmith.io",
-  "ecr.libcuda.so": "https://public.ecr.aws",
+  "ecr.docker.wkto.cloudns.org": "https://public.ecr.aws",
 
   // staging
   "docker-staging.docker.wkto.cloudns.org": dockerHub,
